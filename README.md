@@ -5,3 +5,11 @@
 - ik
 - analysis-smartcn
 - lmenezes/elasticsearch-kopf
+
+## 使用
+
+```
+git pull
+cd docker-elasticsearch-cn
+./elasticsearch.sh
+```
